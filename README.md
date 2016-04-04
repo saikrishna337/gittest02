@@ -5,7 +5,7 @@ New Repository2
 	<l1>Apple</l1>
 	<l1>Banana</l1>
 	<l1>Orange</l1>
-	<l1>Grape</l1>
+	
 </ul>
 	
 
